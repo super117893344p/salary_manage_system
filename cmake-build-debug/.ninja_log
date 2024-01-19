@@ -1,0 +1,7 @@
+# ninja log v5
+1	228	7272907560793647	build.ninja	f24019451eaad52c
+2	383	7273816998038990	CMakeFiles/salary_manage_system.dir/main.cpp.obj	6f71a79093d66396
+44	375	7272916730701100	CMakeFiles/salary_manage_system.dir/worker.cpp.obj	2908684a414c0ee2
+551	672	7273824673565095	salary_manage_system.exe	6b690a8e12cab634
+1	551	7273824672359449	CMakeFiles/salary_manage_system.dir/salary_management.cpp.obj	12e538e70802c0a7
+15	319	7273772563830270	CMakeFiles/salary_manage_system.dir/employee.cpp.obj	bbba8f8398fea46

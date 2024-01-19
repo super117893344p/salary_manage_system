@@ -1,0 +1,3 @@
+A:/Clion/Clion_cpp_project/salary_manage_system/cmake-build-debug/CMakeFiles/salary_manage_system.dir
+A:/Clion/Clion_cpp_project/salary_manage_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/Clion/Clion_cpp_project/salary_manage_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
